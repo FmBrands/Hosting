@@ -1,0 +1,109 @@
+a {
+  text-decoration: none;
+}
+
+.updates {
+  font-size: 15px;
+  color: orange;
+}
+.container {
+  background: #eff0f0;
+}
+.sunny {
+  font-family: "Fredoka One", cursive;
+  font-family: "Noto Serif Lao", serif;
+  margin-top: -40px;
+  padding-top: -60px;
+  font-size: 45px;
+  font-weight: 400;
+  width: 190px;
+}
+h1 {
+  font-family: "Fredoka One", cursive;
+  font-family: "Noto Serif Lao", serif;
+}
+.city {
+  background: #edf1f5;
+}
+.code {
+  font-size: 13px;
+  font-weight: 600;
+  text-align: center;
+  color: #78b5e7;
+}
+.search {
+  text-align: center;
+  background: #f3b523;
+  color: black;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: 1px solid #eff0f0;
+  position: relative;
+  left: 30px;
+}
+
+.current {
+  padding-right: 16px;
+  border: 1px solid #eff0f0;
+  position: relative;
+  left: 40px;
+}
+
+table {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: larger;
+}
+th {
+  margin-bottom: -10px;
+  font-weight: 400;
+}
+td:not(:last-child),
+th:not(:last-child) {
+  border-right: 1px solid rgb(48, 48, 139);
+}
+tr {
+  color: #1278c9;
+}
+table {
+  border-collapse: collapse;
+}
+td,
+th,
+tr {
+  text-align: center;
+  padding: 8px;
+}
+.dark {
+  font-weight: 500;
+  color: rgb(56, 55, 55);
+}
+.big {
+  font-size: 35px;
+}
+.hum {
+  color: #ffa829;
+  font-size: 14px;
+}
+.m {
+  font-weight: 500;
+  color: #1278c9;
+}
+.fm {
+  font-weight: 500;
+  color: #ffa829;
+}
+.weather {
+  border: 1px solid gray;
+  border-radius: 25px;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 700px;
+  max-height: 590px;
+}
+.upper {
+  font-size: 18px;
+  font-weight: 5px;
+  color: blue;
+}
